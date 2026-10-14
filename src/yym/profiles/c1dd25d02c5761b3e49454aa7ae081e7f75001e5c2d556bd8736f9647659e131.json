@@ -1,0 +1,19 @@
+{
+  "sha256": "c1dd25d02c5761b3e49454aa7ae081e7f75001e5c2d556bd8736f9647659e131",
+  "architecture": "x86_64",
+  "python_abi": "3.11",
+  "symbols": {
+    "PyInterpreterState_Head": 105494944,
+    "PyUnicode_Type": 127742672,
+    "PyDict_Type": 127657784,
+    "PyModule_Type": 127715544,
+    "PyLong_Type": 127709480,
+    "PyList_Type": 127707304,
+    "PyTuple_Type": 127732848,
+    "PyBool_Type": 127639600,
+    "PyFloat_Type": 127693696,
+    "PyBytes_Type": 127643648,
+    "PyType_Type": 127734064,
+    "_Py_HashSecret": 131717928
+  }
+}
