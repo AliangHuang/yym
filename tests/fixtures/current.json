@@ -1,0 +1,21 @@
+{
+  "observed_at": "2026-10-14T21:00:00+08:00",
+  "server_time": "2026-10-14T20:59:55+08:00",
+  "daily_current": true,
+  "account": {"uid": "test-account-a", "name": "test-a", "server": "test-server", "short_id": 10001},
+  "signin": {"signed": true, "signed_time": [1791982800]},
+  "activity_score": 140,
+  "activity_rewards": [1, 2, 3, 4, 5],
+  "gold": {"remaining": 2, "capacity": 2},
+  "experience": {"remaining": 0, "capacity": 2},
+  "bounties": [{"name": "test-monster", "progress": 12, "target": 12, "claimed": false, "period_start": "2026-10-14T18:00:00+08:00", "period_end": "2026-10-15T05:00:00+08:00"}],
+  "guild_current": true,
+  "guild_count": 20,
+  "prayer": {"auto_active": true, "received": 1, "target": 99, "today_count": 0},
+  "exp_pool": 0,
+  "strength_pool": 3.9,
+  "pet_bonus": true,
+  "pet_fighted": 0,
+  "free_summon_used": 1,
+  "weekly": {}
+}
